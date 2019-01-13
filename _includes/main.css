@@ -1246,12 +1246,12 @@ figure {
     margin: 0;
 }
 
-.audiblelogo {
-  height: 100%;
-  width: 70px;
+.audiblelogo img {
+	height: 100%;
+	width: 70px;
 }
 
-.bookthumb {
-  height: 250px;
-  width: 250px;
+.bookthumb img {
+	height: 250px;
+	width: 250px;
 }
