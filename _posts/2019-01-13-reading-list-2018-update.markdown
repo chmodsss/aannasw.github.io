@@ -62,8 +62,6 @@ After recently returning from a vacation where I read quite a few books but had 
 
 The add-in is easy to add to your browser, easy to configure and very effective at a glance.
 
-<Add link>
-
 
 <h3>Adding books to Goodreads from an Amazon page</h3>
 
@@ -93,8 +91,8 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DHWACVY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_fK1oCbXQ1VYK8" ></iframe>
 
 <h3>2. Ready Player One and Armada by Ernest Cline</h3>
-<div><script src="https://www.overdrive.com/media/3036595/sample-embed?slug=ready-player-one"></script></div>
-<script src="https://www.overdrive.com/media/2122540/sample-embed?slug=armada"></script></div>
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44" data-iframely-url="//cdn.iframe.ly/dnSnxKT"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 Audible - <a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44?qid=1547390429&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ACP9V390PCDCRZCQRQBM&" target="_blank">Ready Player One</a> and <a href="https://www.audible.com/pd/Armada-Audiobook/B00VN0Q8XY?ref=a_pd_Ready-_c5_lProduct_1_1&pf_rd_p=65d90c29-eff1-4be3-9785-6ed41e3e7842&pf_rd_r=QFFQFYBSYP9VAGTT322D&" target="_blank">Armada</a>
 
