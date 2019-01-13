@@ -1239,3 +1239,19 @@ pre {
 .center {
 	text-align: center;
 }
+
+/* Added for Audible embed widget - Jan 2019 */
+
+figure {
+    margin: 0;
+}
+
+.audiblelogo {
+  height: 100%;
+  width: 70px;
+}
+
+.bookthumb {
+  height: 250px;
+  width: 250px;
+}
