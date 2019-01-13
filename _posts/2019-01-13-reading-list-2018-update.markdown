@@ -84,37 +84,22 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 
 
 
-
 ---
 
 <div class="breaker"></div><a id="audio"></a>
 <h2 class="title">Audiobooks</h2>
 
-<h3>1. Ready Player One and Armada by Ernest Cline</h3>
-<div><script src="https://www.overdrive.com/media/3036595/sample-embed?slug=ready-player-one"></script></div>
-Audible - Ready Player One: https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44?qid=1547390429&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ACP9V390PCDCRZCQRQBM&
+<h3>1. Born a Crime by Trevor Noah</h3>
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01DHWACVY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_fK1oCbXQ1VYK8" ></iframe>
 
-<div><script src="https://www.overdrive.com/media/2122540/sample-embed?slug=armada"></script></div>
-Audible - Armada: https://www.audible.com/pd/Armada-Audiobook/B00VN0Q8XY?ref=a_pd_Ready-_c5_lProduct_1_1&pf_rd_p=65d90c29-eff1-4be3-9785-6ed41e3e7842&pf_rd_r=QFFQFYBSYP9VAGTT322D&
+<h3>2. Ready Player One and Armada by Ernest Cline</h3>
+<div><script src="https://www.overdrive.com/media/3036595/sample-embed?slug=ready-player-one"></script></div>
+<script src="https://www.overdrive.com/media/2122540/sample-embed?slug=armada"></script></div>
+
+Audible - <a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44?qid=1547390429&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=ACP9V390PCDCRZCQRQBM&" target="_blank">Ready Player One</a> and <a href="https://www.audible.com/pd/Armada-Audiobook/B00VN0Q8XY?ref=a_pd_Ready-_c5_lProduct_1_1&pf_rd_p=65d90c29-eff1-4be3-9785-6ed41e3e7842&pf_rd_r=QFFQFYBSYP9VAGTT322D&" target="_blank">Armada</a>
 
 <h3>2. Anansi Boys by Neil Gaiman</h3>	
 <div><script src="https://www.overdrive.com/media/79161/sample-embed?slug=anansi-boys"></script></div>
-
----
-<div class="breaker"></div><a id="reading-list"></a>
-<h2 class="title">Books started in 2017</h2>
-
-<h3>8. What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe</h3>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00IYUYF4A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JeCIAbKEW0MD0" ></iframe>
-Ever wanted to get fully thought out, scientifically precise answers to questions like "What would happen if the earth stopped spinning?" or "What happens if everyone in the world gathers in one place and jumps together?" or "How big does a laser pointer have to be to heat the moon?". No? Well, don't be so sure. I'm halfway through this book and thoroughly enjoying the thoroughly researched scenarios that I never gave a thought to before now.
-
-<h3>9. Death by Black Hole: And Other Cosmic Quandaries by Neil deGrasse Tyson</h3>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000XPPVCY&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_YlCIAbXYRGGBY" ></iframe>
-Similar to the above but more galactic and comprehensive, and more patiently explained by Neil deGrasse Tyson. Enjoying this so far.
-
-<h3>10. The Underground Railroad by Colson Whitehead</h3>
-<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B01A4ATV0A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_oqCIAb3DNQHET" ></iframe>
-So far, it has been a sprawling portrait of one woman as she silently bears life on the plantation. The eBook expired before I could finish it, but I will definitely re-borrow when I have some time to dedicate to the book.
 
 ---
 <div class="breaker"></div><a id="abandoned"></a>
