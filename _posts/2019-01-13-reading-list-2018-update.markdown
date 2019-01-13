@@ -99,6 +99,18 @@ Once again, the internet comes to the rescue. This is a <a href="https://gist.gi
 <iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00TNDID0O&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_yj2oCb3M3RYRX" ></iframe>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 168px; padding-bottom: 0;"><a href="https://www.audible.com/pd/Armada-Audiobook/B00VN0Q8XY" data-iframely-url="//cdn.iframe.ly/EeNBP8I"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
+<figure>
+  <figcaption>Audible sample: Ready Player One
+  <img src="https://m.media-amazon.com/images/I/61JTv97omSL._SL500_.jpg" />  
+  </figcaption>
+    <audio 
+        controls
+        src="https://samples.audible.com/bk/rand/002735/bk_rand_002735_sample.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
 
 
 <h3>2. Anansi Boys by Neil Gaiman</h3>	
