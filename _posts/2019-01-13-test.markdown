@@ -20,9 +20,11 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 			</a>
 		</div>
 	</figcaption>
-	<audio
-		   controls
-		   src="https://samples.audible.com/bk/rand/002735/bk_rand_002735_sample.mp3">
-			Your browser does not support the <code>audio</code> element.
-	</audio>
+	<div style="margin:0;padding:0">
+		<audio 
+			   controls
+			   src="https://samples.audible.com/bk/rand/002735/bk_rand_002735_sample.mp3">
+				Your browser does not support the <code>audio</code> element.
+		</audio>
+	</div>
 </figure>
