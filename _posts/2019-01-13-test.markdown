@@ -15,7 +15,7 @@ jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://assets.gi
 		<div class="audiblelogo" align="left">
 			<img src="https://static1.squarespace.com/static/58f6060c6b8f5b633228f7e3/t/58f63b8f46c3c424ad6ad193/1492532112316/Audible_UK_Logo_Negative-Orange_No-Tag.png?format=2500w" height="100%" width="70px"/>
 		</div>
-		<div class="bookthumb" align="left">
+		<div class="bookthumb" align="left" margin-top="0">
 			<a href="https://www.audible.com/pd/Ready-Player-One-Audiobook/B005FRGT44?qid=1547397416&sr=sr_1_1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=4KWF9HQAG51FBXBN3TGN&" target="_blank"><img src="https://m.media-amazon.com/images/I/61JTv97omSL._SL500_.jpg" height="250px" width="250px" />
 			</a>
 		</div>
