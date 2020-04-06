@@ -1,16 +1,16 @@
 # main text of home
-name: Arti Annaswamy
-bio: 'Data analytics, process improvement, project management, coffee drinking'
+name: Sivasurya Santhanam
+bio: NLP Researcher
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Working on NLP and ML for food and fun
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/sivas.jpg'
 
-url: http://artiannaswamy.com
+url: http://chmodsss.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -22,29 +22,34 @@ highlighter: rouge
 analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
-disqus: artiannaswamy
+disqus: chmodsss
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: aannasw
-# google: mygoogle
+twitter: chmodsss
 # instagram: myinstagram
-pinterest: annasw
-linkedin: artiannaswamy
+# pinterest: mypinterest
+linkedin: sivasuryas
 # youtube: myyoutube
 # spotify: myspotify
-github: aannasw
-# medium: medium
-email: hello@artiannaswamy.com
+github: chmodsss
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 10401945/gforghieri
+# quora: userquora
+# reddit: username
+medium: chmodsss
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: sivasurya.in@gmail.com
 
 authors:
-    artiannaswamy:
-        name: Arti Annaswamy
-        bio: Data analytics, process improvement, project management, coffee drinking
+    chmodsss:
+        name: Sivasurya Santhanam
+        bio: NLP researcher
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: aannasw
-
+        picture: assets/images/sivas.jpg
+        twitter: chmodsss
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -94,6 +99,6 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: http://artiannaswamy.com
+    base_url: http://github.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
