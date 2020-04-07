@@ -6,7 +6,7 @@ layout: page
 
 *Vanakkam*:pray: I'm Sivasurya Santhanam, usually go by Siva for making everyone's life easier.
 
-Born and brought up in southern part of India, I pursued my undergrad in Mechatronics Engineering. Unsatisfied with the Engineering skills, I opted out for research. I came to Germany to pursue Masters of science in Autonomous systems. I lost almost all my Engineering skills only for the better.
+Born and brought up in southern part of India, I pursued my undergrad in Mechatronics Engineering. Unsatisfied with the Engineering skills, I favoured for research. I came to Germany to pursue Masters of science in Autonomous systems. I lost almost all my Engineering skills only for the better.
 
 I am currently a NLP(Natural language processing) researcher in German Aerospace Center(DLR) at Cologne. As a researcher at DLR, I have the opportunity to research and develop cool Natural language processing tools to be applied in intelligent-assistive systems for software engineering. My research focuses on applying the power of machine learning algorithms in NLP to build systems with better Natural language understanding. Currently building Conversational AI for Developers.
 
