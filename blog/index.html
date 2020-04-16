@@ -13,9 +13,7 @@ title: Blog
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 44.5%; padding-top: 120px;"><a href="https://towardsdatascience.com/gans-from-scratch-8f5da17b3fb4" data-iframely-url="//cdn.iframe.ly/E21g3k9"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.paginate %}
+	{% if site.paginate %}
 		{% for post in paginator.posts %}
 	        {% include blog-post.html %}
 	    {% endfor %}
