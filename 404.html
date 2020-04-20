@@ -1,27 +1,41 @@
----
-layout: page
-title: "404"
-permalink: /404
----
-<h2>404</h2>
-{% include doodle-coffeecup.html %}
-<p>Uh Oh! There doesn't appear to be anything here. Sorry about that.</p>
-<p>If you've followed a link expecting something to be here, please <a href="mailto:{{ site.email }}?subject=Page%20not%20found">email me</a> so I can fix it. I'll make sure to send a lot of good karma your way.</p>
-<p>If you're so inclined, feel free to check out some of my recent blog posts below:</p>
-<p>
-	{% if site.posts.size == 0 %}
-		<p>Nothing published yet!</p>
-	{% elsif site.paginate %}
-		{% for post in paginator.posts %}
-	        {% include blog-404.html %}
-	    {% endfor %}
+<!DOCTYPE html>
+<html lang="en">
 
-		{% if site.paginate %}
-			{% include pagination.html%}
-		{% endif %}
-	{% else %}
-		{% for post in site.posts %}
-			{% include blog-404.html %}
-		{% endfor %}
-	{% endif %}
-</p>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<title>404 HTML Template by Colorlib</title>
+
+	<!-- Google font -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito:400,700" rel="stylesheet">
+
+	<!-- Custom stlylesheet -->
+	<link type="text/css" rel="stylesheet" href="404style.css" />
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+</head>
+
+<body>
+
+	<div id="notfound">
+		<div class="notfound">
+			<div class="notfound-404"></div>
+			<h1>404</h1>
+			<h2>Oops! Page Not Be Found</h2>
+			<p>Sorry but the page you are looking for does not exist, have been removed. name changed or is temporarily unavailable</p>
+			<a href="/">Back to homepage</a>
+		</div>
+	</div>
+
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+
+</html>
